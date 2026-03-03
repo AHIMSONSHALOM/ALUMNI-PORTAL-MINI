@@ -1,0 +1,1 @@
+{\n  "name": "student-erp",\n  "version": "1.0.0",\n  "description": "A backend setup for a Student ERP system.",\n  "main": "index.js",\n  "scripts": {\n    "start": "node index.js",\n    "test": "echo 'Error: no test specified' && exit 1"\n  },\n  "author": "AHIMSONSHALOM",\n  "license": "ISC"\n}
